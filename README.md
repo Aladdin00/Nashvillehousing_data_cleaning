@@ -129,4 +129,4 @@ Dropped `OwnerAddress`, `TaxDistrict`, `PropertyAddress` and the original `SaleD
 
 ## Contact
 
-Ali Eldin Mohamed · [LinkedIn](www.linkedin.com/in/alieldin190) · alyshaker2004@gmail.com
+Ali Eldin Mohamed · [LinkedIn](https://www.linkedin.com/in/alieldin190) · alyshaker2004@gmail.com
